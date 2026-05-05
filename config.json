@@ -1,5 +1,17 @@
 {
-  "url": "https://forms.gle/MZxwh1nW53nqthr79",
   "exam_active": true,
-  "force_exit": false
+  "force_exit": false,
+
+  "schedule": [
+    {
+      "start": "20:15",
+      "end": "20:16",
+      "url": "https://forms.gle/JpQEDDAtoFLd2FPSA"
+    },
+    {
+      "start": "20:17",
+      "end": "20:18",
+      "url": "https://forms.gle/aFqAdZ3bYbSbu1pT6"
+    }
+  ]
 }
